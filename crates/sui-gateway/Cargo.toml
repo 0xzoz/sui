@@ -22,7 +22,8 @@ sui-config = { path = "../sui-config" }
 sui-types = { path = "../sui-types" }
 sui-json = { path = "../sui-json" }
 sui-json-rpc = { path = "../sui-json-rpc" }
-sui-json-rpc-api = { path = "../sui-json-rpc-api" }
+sui-json-rpc-types= { path = "../sui-json-rpc-types" }
+sui-client = { path = "../sui-client" }
 sui-node = { path = "../sui-node" }
 
 mysten-network = { git = "https://github.com/MystenLabs/mysten-infra", rev = "94d7da89f6a52d7f60a9802b0a03147a9c89c3e4" }
